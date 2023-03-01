@@ -1,0 +1,31 @@
+{
+	"fileName": "id_1500294065690_184_propertyChange",
+	"fileType": "change",
+	"changeType": "propertyChange",
+	"moduleName": "",
+	"reference": "worklist",
+	"packageName": "",
+	"content": {
+		"property": "visible",
+		"oldValue": true,
+		"newValue": false
+	},
+	"selector": {
+		"id": "worklist::sap.suite.ui.generic.template.ListReport.view.ListReport::Models--addEntry",
+		"type": "sap.m.Button",
+		"idIsLocal": false
+	},
+	"layer": "CUSTOMER_BASE",
+	"texts": {},
+	"namespace": "apps/worklist/changes/",
+	"creation": "2017-07-17T12:21:09.817Z",
+	"originalLanguage": "EN",
+	"conditions": {},
+	"context": "",
+	"support": {
+		"generator": "Change.createInitialFileContent",
+		"service": "",
+		"user": ""
+	}
+}
+
